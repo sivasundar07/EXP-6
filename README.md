@@ -9,7 +9,8 @@ THEORY: - LVDT is basically a mutual inductance type transformer with variable c
 
 DIAGRAM:
 CIRCUIT DIAGRAM
-<img width="1910" height="888" alt="image" src="https://github.com/user-attachments/assets/8828f6d4-870f-4aa5-966f-b415b6bcecad" />
+<img width="1897" height="878" alt="Screenshot 2026-05-28 152621" src="https://github.com/user-attachments/assets/f664ab0a-9caa-46ca-9de7-4774af9007a8" />
+
 <img width="1910" height="888" alt="Screenshot 2026-05-28 152706" src="https://github.com/user-attachments/assets/210ded9c-0ec7-4511-acb3-21dcbcc1a580" />
 
 PROCEDURE: -
